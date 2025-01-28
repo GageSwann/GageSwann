@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Gage Logan Swann! 👋
 
-<!--
-**GageSwann/GageSwann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I’m a passionate Software Engineering student at Auburn University with a strong interest in programming, problem solving, and collaboration. With technical expertise in Python, Java, C++, and SQL, I enjoy building useful and creative projects that showcase both innovation and skill. I believe in the power of teamwork and am always striving to learn and grow as a developer.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 **About Me**
+
+- 🌟 **Skills**:  
+  - **Programming Languages**: Python, Java, C++, SQL  
+  - **Problem Solving**: Experienced in technical troubleshooting and cyber defense practices  
+  - **Teamwork**: Skilled at collaborating on projects
+
+---
+
+## 📚 **Projects**
+*Coming Soon!*  
+I am currently working on new projects to showcase here. Check back soon for updates, or explore my current repositories to see what I’m working on!
+
+---
+
+## 🌐 **Connect With Me**
+- 📫 Email: gagelswann@gmail.com  
+- 📧 Auburn Email: gls0033@auburn.edu  
+- 🌟 GitHub: [github.com/GageSwann](https://github.com/GageSwann)  
+- 💼 LinkedIn: *Coming Soon!*  
+
+---
+
+## 🚀 **Fun Fact**
+When I’m not coding, I enjoy exploring new technologies, diving into cybersecurity practices, and engaging in teamwork activities that sharpen my skills as a problem solver. I’m driven by curiosity and a passion for learning!
+
+---
+
+### Thanks for stopping by! Let’s build something great together. 😊
