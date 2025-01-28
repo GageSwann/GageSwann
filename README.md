@@ -1,4 +1,4 @@
-# Hi there, I'm Gage Logan Swann! 👋
+# Hi there, I'm Gage Swann! 👋
 
 Welcome to my GitHub! I’m a passionate Software Engineering student at Auburn University with a strong interest in programming, problem solving, and collaboration. With technical expertise in Python, Java, C++, and SQL, I enjoy building useful and creative projects that showcase both innovation and skill. I believe in the power of teamwork and am always striving to learn and grow as a developer.
 
@@ -22,7 +22,6 @@ I am currently working on new projects to showcase here. Check back soon for upd
 ## 🌐 **Connect With Me**
 - 📫 Email: gagelswann@gmail.com  
 - 📧 Auburn Email: gls0033@auburn.edu  
-- 🌟 GitHub: [github.com/GageSwann](https://github.com/GageSwann)  
 - 💼 LinkedIn: *Coming Soon!*  
 
 ---
