@@ -1,7 +1,7 @@
 # Hi there, I'm Gage Swann! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GageSwann&color=blue)  
-🎓 **Senior Software Engineering Student** | Auburn University (Graduating May 2025)  
+🎓 **Software Engineering Bachelors Degree** | Auburn University (co' 2025)  
 💻 **Front-End Developer | Aspiring Full-Stack Engineer**  
 🔐 **Cybersecurity Enthusiast | Former CyberPatriot Competitor**
 
